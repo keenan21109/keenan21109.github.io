@@ -1,2 +1,2 @@
 # keenan21109.github.io
-First website created while at UNISA
+ First year Java projects while studying at RoseBank 
